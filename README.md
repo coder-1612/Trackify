@@ -1,4 +1,4 @@
 # Trackify
 Track your workouts forever
 
-Deploy link:
+Deploy link:https://coder-1612.github.io/Trackify/
